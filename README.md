@@ -17,3 +17,5 @@ SO THAT I can manage my time effectively
 [Link to github repository](https://github.com/acarr13/work.it.out.planner)
 
 ## Screenshot
+
+![Image of html](assets/img/planner.png)
