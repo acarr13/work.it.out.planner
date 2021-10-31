@@ -12,7 +12,7 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
 
-[Link to deployed site]()
+[Link to deployed site](https://acarr13.github.io/work.it.out.planner/)
 
 [Link to github repository](https://github.com/acarr13/work.it.out.planner)
 
